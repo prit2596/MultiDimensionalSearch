@@ -1,4 +1,4 @@
----------------------------- README --------------------------
+---------------------------- READ ME --------------------------
 
 This is a readme file containing instructions for executing code for 
 Long Project 3: Multi-Dimensional search
